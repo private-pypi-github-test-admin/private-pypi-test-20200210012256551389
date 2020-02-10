@@ -7,4 +7,4 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: python-best-practices/private-pypi-sync-index@v0.1
+    - uses: python-best-practices/private-pypi-sync-index@master
