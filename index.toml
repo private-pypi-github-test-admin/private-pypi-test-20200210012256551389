@@ -72,18 +72,6 @@ description_content_type = "text/markdown"
 protocol_version = "1"
 distrib = "private-pypi"
 sha256 = "32478425ceeb0a552ce4b57c77a65dcfc51f56ac6ec04afff1c80becd5e38a9e"
-[[pkg-98]]
-distrib = "pkg-98"
-package = "pkg_98-1.0-py3-none-any"
-ext = "whl"
-sha256 = "b4c5dbf2954166a775513abe8716e8decb3b65b039ee014c4dec3359f48db297"
-type = "github"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907360"
-
-[pkg-98.meta]
-name = "pkg_98"
-distrib = "pkg-98"
-sha256 = "b4c5dbf2954166a775513abe8716e8decb3b65b039ee014c4dec3359f48db297"
 [[pkg-97]]
 distrib = "pkg-97"
 package = "pkg_97-1.0-py3-none-any"
@@ -132,18 +120,6 @@ url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210
 name = "pkg_94"
 distrib = "pkg-94"
 sha256 = "16aeec9acf086fa8f8f5cd86eb3570e85b5c019d8b997b710c8feae1a89360e9"
-[[pkg-93]]
-distrib = "pkg-93"
-package = "pkg_93-1.0-py3-none-any"
-ext = "whl"
-sha256 = "e0007dcc12eb5d6c9dd6bd719931a0cea0dd3f4136f46a6be60227f39b8516f7"
-type = "github"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907347"
-
-[pkg-93.meta]
-name = "pkg_93"
-distrib = "pkg-93"
-sha256 = "e0007dcc12eb5d6c9dd6bd719931a0cea0dd3f4136f46a6be60227f39b8516f7"
 [[pkg-92]]
 distrib = "pkg-92"
 package = "pkg_92-1.0-py3-none-any"
