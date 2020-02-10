@@ -1,7 +1,9 @@
 name: sync-index
 
-on: [release]
-
+on:
+  schedule:
+    - cron:  '*/1 * * * *'
+      
 jobs:
   build:
     runs-on: ubuntu-latest
