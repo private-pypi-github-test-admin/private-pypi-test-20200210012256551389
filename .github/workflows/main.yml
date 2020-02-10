@@ -1,0 +1,11 @@
+name: sync-index
+
+on:
+  release:
+    types: [published, unpublished, created, edited, deleted]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: python-best-practices/private-pypi-sync-index@master
