@@ -1,8 +1,6 @@
 name: sync-index
 
-on:
-  release:
-    types: [published, unpublished, created, edited, deleted]
+on: release
 
 jobs:
   build:
