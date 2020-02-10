@@ -1,7 +1,6 @@
 name: sync-index
 
-# on: release
-on: [push]
+on: [release]
 
 jobs:
   build:
