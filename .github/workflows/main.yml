@@ -9,4 +9,4 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: python-best-practices/private-pypi-sync-index@master
+    - uses: python-best-practices/private-pypi-sync-index
