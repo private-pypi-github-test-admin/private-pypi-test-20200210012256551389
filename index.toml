@@ -4,7 +4,7 @@ distrib = "private-pypi"
 package = "private_pypi-0.1.1-py3-none-any"
 ext = "whl"
 sha256 = "32478425ceeb0a552ce4b57c77a65dcfc51f56ac6ec04afff1c80becd5e38a9e"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17936975"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17936975"
 
 [pkgs.meta]
 name = "private-pypi"
@@ -41,7 +41,7 @@ distrib = "private-pypi"
 package = "private-pypi-0.1.1.tar"
 ext = "gz"
 sha256 = "b694ae5ab296c0f94a4aeb0e2b64684907af8b06cd5bc8d3a0b6f1c48a136c5a"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17921292"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17921292"
 
 [pkgs.meta]
 name = "private-pypi"
@@ -78,7 +78,7 @@ distrib = "pkg-97"
 package = "pkg_97-1.0-py3-none-any"
 ext = "whl"
 sha256 = "9900e0753cfcfe24858aa035149b0f5cd7451e2451028b01c09917338c2cb4f1"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907355"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907355"
 
 [pkgs.meta]
 name = "pkg_97"
@@ -90,7 +90,7 @@ distrib = "pkg-96"
 package = "pkg_96-1.0-py3-none-any"
 ext = "whl"
 sha256 = "73082648b986745e615f417838958d5673dd9cb24f78b7840cd30ec64947c41d"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907351"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907351"
 
 [pkgs.meta]
 name = "pkg_96"
@@ -102,7 +102,7 @@ distrib = "pkg-95"
 package = "pkg_95-1.0-py3-none-any"
 ext = "whl"
 sha256 = "987a8d8d52bac933bab71eaefdab3087a284fad8ec9b04ad7b3c1447885f5ae2"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907350"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907350"
 
 [pkgs.meta]
 name = "pkg_95"
@@ -114,7 +114,7 @@ distrib = "pkg-94"
 package = "pkg_94-1.0-py3-none-any"
 ext = "whl"
 sha256 = "16aeec9acf086fa8f8f5cd86eb3570e85b5c019d8b997b710c8feae1a89360e9"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907349"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907349"
 
 [pkgs.meta]
 name = "pkg_94"
@@ -126,7 +126,7 @@ distrib = "pkg-92"
 package = "pkg_92-1.0-py3-none-any"
 ext = "whl"
 sha256 = "bdcc5f7553006a204a2d48d403f1fabe4566728c38c0e387234054930f7b5e7f"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907344"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907344"
 
 [pkgs.meta]
 name = "pkg_92"
@@ -138,7 +138,7 @@ distrib = "pkg-91"
 package = "pkg_91-1.0-py3-none-any"
 ext = "whl"
 sha256 = "c0527c3c7fa3c5f5d28cf714b1516922ec89e6e3172258ea69219c98f9227d82"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907343"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907343"
 
 [pkgs.meta]
 name = "pkg_91"
@@ -150,7 +150,7 @@ distrib = "pkg-90"
 package = "pkg_90-1.0-py3-none-any"
 ext = "whl"
 sha256 = "e7f1bef2e298a8c181c51898fc32b8cf98944a5e2668daa6114fec353d858871"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907341"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907341"
 
 [pkgs.meta]
 name = "pkg_90"
@@ -162,7 +162,7 @@ distrib = "pkg-89"
 package = "pkg_89-1.0-py3-none-any"
 ext = "whl"
 sha256 = "0ab2ac0a700abd11deef0983f69d3ea3946bdbc8eefc671163d4270105a8f379"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907339"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907339"
 
 [pkgs.meta]
 name = "pkg_89"
@@ -174,7 +174,7 @@ distrib = "pkg-88"
 package = "pkg_88-1.0-py3-none-any"
 ext = "whl"
 sha256 = "f6ece402f23add65b6c28220d3bc137f812401b97945befc9d2bba98fb0a2bb1"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907338"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907338"
 
 [pkgs.meta]
 name = "pkg_88"
@@ -186,7 +186,7 @@ distrib = "pkg-87"
 package = "pkg_87-1.0-py3-none-any"
 ext = "whl"
 sha256 = "8c2767ebfce667f519aa4544a789498af60c00561181becf147619742238e044"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907336"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907336"
 
 [pkgs.meta]
 name = "pkg_87"
@@ -198,7 +198,7 @@ distrib = "pkg-86"
 package = "pkg_86-1.0-py3-none-any"
 ext = "whl"
 sha256 = "19d1a2da0eb8b7227a8ea953567705ea2d188ff13f7e76782c619319f8135756"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907330"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907330"
 
 [pkgs.meta]
 name = "pkg_86"
@@ -210,7 +210,7 @@ distrib = "pkg-85"
 package = "pkg_85-1.0-py3-none-any"
 ext = "whl"
 sha256 = "0f6d73e9157fa300185f5faceb0a29d657857f3cbb584f1014986bdf5d963f36"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907326"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907326"
 
 [pkgs.meta]
 name = "pkg_85"
@@ -222,7 +222,7 @@ distrib = "pkg-84"
 package = "pkg_84-1.0-py3-none-any"
 ext = "whl"
 sha256 = "03e86b2576a2fb4affa7e6edc6b8eac13982c0e87685118c95866bbd60d18658"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907325"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907325"
 
 [pkgs.meta]
 name = "pkg_84"
@@ -234,7 +234,7 @@ distrib = "pkg-83"
 package = "pkg_83-1.0-py3-none-any"
 ext = "whl"
 sha256 = "aadf178549361616bc83f684a17431c6597079ffca89204d5b393af9accfa101"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907324"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907324"
 
 [pkgs.meta]
 name = "pkg_83"
@@ -246,7 +246,7 @@ distrib = "pkg-82"
 package = "pkg_82-1.0-py3-none-any"
 ext = "whl"
 sha256 = "d163996bbfbb28053234eb893ac47793863e4553c7f69d138123ab9ea2f72d1f"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907322"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907322"
 
 [pkgs.meta]
 name = "pkg_82"
@@ -258,7 +258,7 @@ distrib = "pkg-81"
 package = "pkg_81-1.0-py3-none-any"
 ext = "whl"
 sha256 = "f00fcf174213568b7a04d2076d3ca75309cf3e08c9d8160e9718b3806ec369ba"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907320"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907320"
 
 [pkgs.meta]
 name = "pkg_81"
@@ -270,7 +270,7 @@ distrib = "pkg-80"
 package = "pkg_80-1.0-py3-none-any"
 ext = "whl"
 sha256 = "9e4f9f129161fe8ce3c6481504611c234cc429d74522cbfdef39ae5b9281e2e9"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907319"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907319"
 
 [pkgs.meta]
 name = "pkg_80"
@@ -282,7 +282,7 @@ distrib = "pkg-79"
 package = "pkg_79-1.0-py3-none-any"
 ext = "whl"
 sha256 = "88e83b5f6e391dabf097f4c0d6cc6ce84d27bf5dc29e7891e21b8499a94ac049"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907318"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907318"
 
 [pkgs.meta]
 name = "pkg_79"
@@ -294,7 +294,7 @@ distrib = "pkg-78"
 package = "pkg_78-1.0-py3-none-any"
 ext = "whl"
 sha256 = "389f38f740b726499175a50091d195ede3b15b6b5d9baf61868e1d9f7a982423"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907317"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907317"
 
 [pkgs.meta]
 name = "pkg_78"
@@ -306,7 +306,7 @@ distrib = "pkg-77"
 package = "pkg_77-1.0-py3-none-any"
 ext = "whl"
 sha256 = "c41b2fb37bcd17110f006d41144ecb338d1e1f1953d90322337970e663731fad"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907316"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907316"
 
 [pkgs.meta]
 name = "pkg_77"
@@ -318,7 +318,7 @@ distrib = "pkg-76"
 package = "pkg_76-1.0-py3-none-any"
 ext = "whl"
 sha256 = "67d15603504465636391b8f869c1945edbb79d4a8ffbaed51f371dc1ad7acc51"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907315"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907315"
 
 [pkgs.meta]
 name = "pkg_76"
@@ -330,7 +330,7 @@ distrib = "pkg-75"
 package = "pkg_75-1.0-py3-none-any"
 ext = "whl"
 sha256 = "5b4662c2af01424128599d5ff737acb747d0eda86e6a3c5e4b196c1091a3b6e1"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907314"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907314"
 
 [pkgs.meta]
 name = "pkg_75"
@@ -342,7 +342,7 @@ distrib = "pkg-74"
 package = "pkg_74-1.0-py3-none-any"
 ext = "whl"
 sha256 = "7d691117c4b877968143aa7a1e48d93a048570f35efc0c968faffd2b6f4e7b61"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907312"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907312"
 
 [pkgs.meta]
 name = "pkg_74"
@@ -354,7 +354,7 @@ distrib = "pkg-73"
 package = "pkg_73-1.0-py3-none-any"
 ext = "whl"
 sha256 = "d507f92972ac872b15edc7f3c19094d36bb6c6992abaa5a61f7324d4634b66b7"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907311"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907311"
 
 [pkgs.meta]
 name = "pkg_73"
@@ -366,7 +366,7 @@ distrib = "pkg-72"
 package = "pkg_72-1.0-py3-none-any"
 ext = "whl"
 sha256 = "39ad888f678d4ee226b11a23b23579db0bf7a49953349bbbe73982ad5c4614ec"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907310"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907310"
 
 [pkgs.meta]
 name = "pkg_72"
@@ -378,7 +378,7 @@ distrib = "pkg-71"
 package = "pkg_71-1.0-py3-none-any"
 ext = "whl"
 sha256 = "9976f9e43144df8f8d827a086ec7947cd20b92e349c04b8a49c934030abdd6fb"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907309"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907309"
 
 [pkgs.meta]
 name = "pkg_71"
@@ -390,7 +390,7 @@ distrib = "pkg-70"
 package = "pkg_70-1.0-py3-none-any"
 ext = "whl"
 sha256 = "9b01adcfd32b4fcfaefd161b14c534311b65a04075d21369bc6827342c7dbdfd"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907307"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907307"
 
 [pkgs.meta]
 name = "pkg_70"
@@ -402,7 +402,7 @@ distrib = "pkg-69"
 package = "pkg_69-1.0-py3-none-any"
 ext = "whl"
 sha256 = "52ecfd11877cea06948902b0eb6a37f81574963f998ca26d0363c4e5d4160b9e"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907304"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907304"
 
 [pkgs.meta]
 name = "pkg_69"
@@ -414,7 +414,7 @@ distrib = "pkg-68"
 package = "pkg_68-1.0-py3-none-any"
 ext = "whl"
 sha256 = "794293d5ed1fd8ee5ff19bd58a4caf61505ce5bbc8a6fbdff337230c801e7b9a"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907299"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907299"
 
 [pkgs.meta]
 name = "pkg_68"
@@ -426,7 +426,7 @@ distrib = "pkg-67"
 package = "pkg_67-1.0-py3-none-any"
 ext = "whl"
 sha256 = "648d98fe8dc6844586457f2be1caffc8f3b108801301f83f105dbd6d1993bdfe"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907295"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907295"
 
 [pkgs.meta]
 name = "pkg_67"
@@ -438,7 +438,7 @@ distrib = "pkg-66"
 package = "pkg_66-1.0-py3-none-any"
 ext = "whl"
 sha256 = "dcfdc2ff4d14293f6244478b3ff0e2f3fb0cef03dc4bbb6fb93efcfe836e1142"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907293"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907293"
 
 [pkgs.meta]
 name = "pkg_66"
@@ -450,7 +450,7 @@ distrib = "pkg-65"
 package = "pkg_65-1.0-py3-none-any"
 ext = "whl"
 sha256 = "7014aa114b22d38e1eac03d19fc5f50619e27b86dad9ca16e84827b1aff3e82f"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907292"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907292"
 
 [pkgs.meta]
 name = "pkg_65"
@@ -462,7 +462,7 @@ distrib = "pkg-64"
 package = "pkg_64-1.0-py3-none-any"
 ext = "whl"
 sha256 = "e7c5b8ae6ecb883f889e3c795b23a50b6bdb38c6d484728cf14912b9d8111b1d"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907290"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907290"
 
 [pkgs.meta]
 name = "pkg_64"
@@ -474,7 +474,7 @@ distrib = "pkg-63"
 package = "pkg_63-1.0-py3-none-any"
 ext = "whl"
 sha256 = "956db9dce9e217caa14f44236c764a9b914d0dfa78e64ce5ce1e9b93d744f950"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907289"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907289"
 
 [pkgs.meta]
 name = "pkg_63"
@@ -486,7 +486,7 @@ distrib = "pkg-62"
 package = "pkg_62-1.0-py3-none-any"
 ext = "whl"
 sha256 = "b6a091b966cf9c07ea813098c149fb7921efb598345be6aa92c5c757d77b92fe"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907287"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907287"
 
 [pkgs.meta]
 name = "pkg_62"
@@ -498,7 +498,7 @@ distrib = "pkg-61"
 package = "pkg_61-1.0-py3-none-any"
 ext = "whl"
 sha256 = "28ddd033924250c9216578404e0bd79d23a02c83a81fc4a4a2ee436263d6226b"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907285"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907285"
 
 [pkgs.meta]
 name = "pkg_61"
@@ -510,7 +510,7 @@ distrib = "pkg-60"
 package = "pkg_60-1.0-py3-none-any"
 ext = "whl"
 sha256 = "e5c21c19925c4e24b1f3fbbf2a12b5bf8b1a0ffbc0bb85cca85265750bed5b31"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907283"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907283"
 
 [pkgs.meta]
 name = "pkg_60"
@@ -522,7 +522,7 @@ distrib = "pkg-59"
 package = "pkg_59-1.0-py3-none-any"
 ext = "whl"
 sha256 = "ea4835f0166119268846d50f6e026c2c520d8db3776459cb0064919c9b7e15b2"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907282"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907282"
 
 [pkgs.meta]
 name = "pkg_59"
@@ -534,7 +534,7 @@ distrib = "pkg-58"
 package = "pkg_58-1.0-py3-none-any"
 ext = "whl"
 sha256 = "c8a886dec7ab43123fe9ba627b55146baddd9b8c7cede60ca5127584bdfdcf80"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907280"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907280"
 
 [pkgs.meta]
 name = "pkg_58"
@@ -546,7 +546,7 @@ distrib = "pkg-57"
 package = "pkg_57-1.0-py3-none-any"
 ext = "whl"
 sha256 = "11f5c50f6d1cc285122babebd9e2daae7fa5fe4bc9087586275296e1e988ab2f"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907279"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907279"
 
 [pkgs.meta]
 name = "pkg_57"
@@ -558,7 +558,7 @@ distrib = "pkg-56"
 package = "pkg_56-1.0-py3-none-any"
 ext = "whl"
 sha256 = "72094ae62f6a2ac0cdfb3b0f9a9d682fda0c495662f3ce7dbe4cdf9d243aafd1"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907278"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907278"
 
 [pkgs.meta]
 name = "pkg_56"
@@ -570,7 +570,7 @@ distrib = "pkg-55"
 package = "pkg_55-1.0-py3-none-any"
 ext = "whl"
 sha256 = "e091108d1f3afda630e873e5f05c78d20cdf0d3f64caf5f42ffc9143033d92ed"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907277"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907277"
 
 [pkgs.meta]
 name = "pkg_55"
@@ -582,7 +582,7 @@ distrib = "pkg-54"
 package = "pkg_54-1.0-py3-none-any"
 ext = "whl"
 sha256 = "8dbf7ba503502a98e46907631c41b1a3aeb0b0185c8971ddc81d4cf8082df65b"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907275"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907275"
 
 [pkgs.meta]
 name = "pkg_54"
@@ -594,7 +594,7 @@ distrib = "pkg-53"
 package = "pkg_53-1.0-py3-none-any"
 ext = "whl"
 sha256 = "1db997eddfa113615748053b5e903174e3bb5255ec70e29c8884d4054e8f5ebf"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907274"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907274"
 
 [pkgs.meta]
 name = "pkg_53"
@@ -606,7 +606,7 @@ distrib = "pkg-52"
 package = "pkg_52-1.0-py3-none-any"
 ext = "whl"
 sha256 = "683e11637a530e70527c3cf0f90b1e00d81b2666e463684589f7e3e211deff36"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907273"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907273"
 
 [pkgs.meta]
 name = "pkg_52"
@@ -618,7 +618,7 @@ distrib = "pkg-51"
 package = "pkg_51-1.0-py3-none-any"
 ext = "whl"
 sha256 = "9bc3b06c22d9afc1fdbe0d7f73691c46a15bab9309f963045b196b3297c92624"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907272"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907272"
 
 [pkgs.meta]
 name = "pkg_51"
@@ -630,7 +630,7 @@ distrib = "pkg-50"
 package = "pkg_50-1.0-py3-none-any"
 ext = "whl"
 sha256 = "54190a8ca8a33c790e03f642489650b592c424d1a2d8e8abb0d3e46b11b8f934"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907267"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907267"
 
 [pkgs.meta]
 name = "pkg_50"
@@ -642,7 +642,7 @@ distrib = "pkg-49"
 package = "pkg_49-1.0-py3-none-any"
 ext = "whl"
 sha256 = "1587ba8b846ef3a77192c8eff59c8115b8fad10a78cd5e92d7b1cc1f2dd948d2"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907261"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907261"
 
 [pkgs.meta]
 name = "pkg_49"
@@ -654,7 +654,7 @@ distrib = "pkg-48"
 package = "pkg_48-1.0-py3-none-any"
 ext = "whl"
 sha256 = "ebe1151b303f3582e93074e0bc90ffb4c18eeb2f286270c3a49f065aa7433280"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907258"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907258"
 
 [pkgs.meta]
 name = "pkg_48"
@@ -666,7 +666,7 @@ distrib = "pkg-47"
 package = "pkg_47-1.0-py3-none-any"
 ext = "whl"
 sha256 = "ef3c7b9e2ac8a3c4671fa61a6d33eb4fcd4426f180292f9d1a6cc4ff5b493b68"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907257"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907257"
 
 [pkgs.meta]
 name = "pkg_47"
@@ -678,7 +678,7 @@ distrib = "pkg-46"
 package = "pkg_46-1.0-py3-none-any"
 ext = "whl"
 sha256 = "425157ba92c3a2421c2e3d2e7dc7604bf0e9f3740ccd5e6ae6ad11c195fac2af"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907256"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907256"
 
 [pkgs.meta]
 name = "pkg_46"
@@ -690,7 +690,7 @@ distrib = "pkg-45"
 package = "pkg_45-1.0-py3-none-any"
 ext = "whl"
 sha256 = "5e8e0eba0866109b5744d2a1fe9745d701ae1282724becfffcec12263d0815f7"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907255"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907255"
 
 [pkgs.meta]
 name = "pkg_45"
@@ -702,7 +702,7 @@ distrib = "pkg-44"
 package = "pkg_44-1.0-py3-none-any"
 ext = "whl"
 sha256 = "43d34ac9346049a0ef64c4c95fb3af646879a830cb0c8dcb79d47d632fbfd29c"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907254"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907254"
 
 [pkgs.meta]
 name = "pkg_44"
@@ -714,7 +714,7 @@ distrib = "pkg-43"
 package = "pkg_43-1.0-py3-none-any"
 ext = "whl"
 sha256 = "2461c080dc8f922b8141128dad9172f8b6058e96c7add44be95612a365d450ab"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907253"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907253"
 
 [pkgs.meta]
 name = "pkg_43"
@@ -726,7 +726,7 @@ distrib = "pkg-42"
 package = "pkg_42-1.0-py3-none-any"
 ext = "whl"
 sha256 = "346b7a9398826c029969c7f2adc30180c200fb69e3c430f06a5d81c117784db8"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907252"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907252"
 
 [pkgs.meta]
 name = "pkg_42"
@@ -738,7 +738,7 @@ distrib = "pkg-41"
 package = "pkg_41-1.0-py3-none-any"
 ext = "whl"
 sha256 = "bcf2f69a2d993265c128e5ff0774fe41cf20794aef942d5bc503968af2d318c6"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907251"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907251"
 
 [pkgs.meta]
 name = "pkg_41"
@@ -750,7 +750,7 @@ distrib = "pkg-40"
 package = "pkg_40-1.0-py3-none-any"
 ext = "whl"
 sha256 = "bc883b50a56c3f5de28c50ed348f2d67145c6264b47da5a9f75fb576a3d5bef6"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907250"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907250"
 
 [pkgs.meta]
 name = "pkg_40"
@@ -762,7 +762,7 @@ distrib = "pkg-39"
 package = "pkg_39-1.0-py3-none-any"
 ext = "whl"
 sha256 = "5ac1e04539f4641bc76f3eab00aac49ffd1d2a68bc1f6265497861cdbce542b1"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907249"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907249"
 
 [pkgs.meta]
 name = "pkg_39"
@@ -774,7 +774,7 @@ distrib = "pkg-38"
 package = "pkg_38-1.0-py3-none-any"
 ext = "whl"
 sha256 = "a979c7ab6350e49f9414f3c8ab5fb12f0ed36600c9d1e6e2ff56b47579eb661d"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907247"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907247"
 
 [pkgs.meta]
 name = "pkg_38"
@@ -786,7 +786,7 @@ distrib = "pkg-37"
 package = "pkg_37-1.0-py3-none-any"
 ext = "whl"
 sha256 = "70146831641646630c14f9c512fcdbe73f25178fa8e9d76a4d8e2ac4bf5b8477"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907246"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907246"
 
 [pkgs.meta]
 name = "pkg_37"
@@ -798,7 +798,7 @@ distrib = "pkg-36"
 package = "pkg_36-1.0-py3-none-any"
 ext = "whl"
 sha256 = "d416c583300f2f57b7d8162338439949d8458d5d8de6578d3e4e86bc6988feb7"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907244"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907244"
 
 [pkgs.meta]
 name = "pkg_36"
@@ -810,7 +810,7 @@ distrib = "pkg-35"
 package = "pkg_35-1.0-py3-none-any"
 ext = "whl"
 sha256 = "ac0973d9a34f905a313f2e1da64e616ce95ae6610a5c06dfa6a15e2d539b4c7a"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907239"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907239"
 
 [pkgs.meta]
 name = "pkg_35"
@@ -822,7 +822,7 @@ distrib = "pkg-34"
 package = "pkg_34-1.0-py3-none-any"
 ext = "whl"
 sha256 = "3a7598503ae21041e914cfd7504767d1242e98b12054580c327c2c1d101c6582"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907235"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907235"
 
 [pkgs.meta]
 name = "pkg_34"
@@ -834,7 +834,7 @@ distrib = "pkg-33"
 package = "pkg_33-1.0-py3-none-any"
 ext = "whl"
 sha256 = "311924cc35fb6386449ee5eb55e36b58e5368f4de84b1274d441185701dbe21f"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907232"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907232"
 
 [pkgs.meta]
 name = "pkg_33"
@@ -846,7 +846,7 @@ distrib = "pkg-32"
 package = "pkg_32-1.0-py3-none-any"
 ext = "whl"
 sha256 = "3e8feda7d93b29a16d7899156c1e1818b7e427f604d6ef39b54c4ae57555aced"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907231"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907231"
 
 [pkgs.meta]
 name = "pkg_32"
@@ -858,7 +858,7 @@ distrib = "pkg-31"
 package = "pkg_31-1.0-py3-none-any"
 ext = "whl"
 sha256 = "86a2da613f415d57c45368d5d0375505ee37b967f9fc9a02a220b6a1147853c3"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907230"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907230"
 
 [pkgs.meta]
 name = "pkg_31"
@@ -870,7 +870,7 @@ distrib = "pkg-30"
 package = "pkg_30-1.0-py3-none-any"
 ext = "whl"
 sha256 = "3f816ebe62dc04cdd829227854b89e8d144a1b8d465a5c2d5500c8b24da08334"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907229"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907229"
 
 [pkgs.meta]
 name = "pkg_30"
@@ -882,7 +882,7 @@ distrib = "pkg-29"
 package = "pkg_29-1.0-py3-none-any"
 ext = "whl"
 sha256 = "79d12cbf3e6f174a4d1354ec49c00484a822cdafa12557b1f0f053de1e8307a3"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907227"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907227"
 
 [pkgs.meta]
 name = "pkg_29"
@@ -894,7 +894,7 @@ distrib = "pkg-28"
 package = "pkg_28-1.0-py3-none-any"
 ext = "whl"
 sha256 = "d7b7929dc6133ae7c3922df1a3a43ac9251c969d6e4ebbf527d7405c3c93ca1a"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907226"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907226"
 
 [pkgs.meta]
 name = "pkg_28"
@@ -906,7 +906,7 @@ distrib = "pkg-27"
 package = "pkg_27-1.0-py3-none-any"
 ext = "whl"
 sha256 = "16574fa1245ab9a91e05e7387c2fd734cd65e5ffea6cabd6fbe44c3a661565ae"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907224"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907224"
 
 [pkgs.meta]
 name = "pkg_27"
@@ -918,7 +918,7 @@ distrib = "pkg-26"
 package = "pkg_26-1.0-py3-none-any"
 ext = "whl"
 sha256 = "a31f4aa2a8eda9b94bd759337eff75d8356c7c2e4e8e2349d9131a9ffc0ac5f4"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907221"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907221"
 
 [pkgs.meta]
 name = "pkg_26"
@@ -930,7 +930,7 @@ distrib = "pkg-25"
 package = "pkg_25-1.0-py3-none-any"
 ext = "whl"
 sha256 = "83e4eeb842f2fa857afe2065c77eb9b2200ee051444a6517a2c466ffe7c3b453"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907219"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907219"
 
 [pkgs.meta]
 name = "pkg_25"
@@ -942,7 +942,7 @@ distrib = "pkg-24"
 package = "pkg_24-1.0-py3-none-any"
 ext = "whl"
 sha256 = "060ba6175a550d31e20257233fbf1c79478ff1be3f10ea15e493449a1a97c1d2"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907218"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907218"
 
 [pkgs.meta]
 name = "pkg_24"
@@ -954,7 +954,7 @@ distrib = "pkg-23"
 package = "pkg_23-1.0-py3-none-any"
 ext = "whl"
 sha256 = "e408ff73941f75bd7ca050de6b2f3bd0c89bcd87ce122f0a415951b0dff3de97"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907216"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907216"
 
 [pkgs.meta]
 name = "pkg_23"
@@ -966,7 +966,7 @@ distrib = "pkg-22"
 package = "pkg_22-1.0-py3-none-any"
 ext = "whl"
 sha256 = "b678fdb7d00be4215ab5774a9514dcd08f99e2f92b560d119789bca11d9b98bf"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907213"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907213"
 
 [pkgs.meta]
 name = "pkg_22"
@@ -978,7 +978,7 @@ distrib = "pkg-21"
 package = "pkg_21-1.0-py3-none-any"
 ext = "whl"
 sha256 = "d4420441edc1f7d49d44c3ccbb1b9ad8f9c29b4aa20871d8ef6c53b497e41747"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907207"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907207"
 
 [pkgs.meta]
 name = "pkg_21"
@@ -990,7 +990,7 @@ distrib = "pkg-20"
 package = "pkg_20-1.0-py3-none-any"
 ext = "whl"
 sha256 = "30da24baadf1863f2bb7cf8c54ef07f8335eaaa7d6e119b4a4bee4c535dc7abe"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907202"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907202"
 
 [pkgs.meta]
 name = "pkg_20"
@@ -1002,7 +1002,7 @@ distrib = "pkg-19"
 package = "pkg_19-1.0-py3-none-any"
 ext = "whl"
 sha256 = "37e89f69b5b195dcc6e3374274e896c02e320dbfc7a651a3d7a64899183508c8"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907201"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907201"
 
 [pkgs.meta]
 name = "pkg_19"
@@ -1014,7 +1014,7 @@ distrib = "pkg-18"
 package = "pkg_18-1.0-py3-none-any"
 ext = "whl"
 sha256 = "5e3d42c22ae18ed4acce1328dcd2b06df4c5e11784f8cdd222d7cc59431324ef"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907196"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907196"
 
 [pkgs.meta]
 name = "pkg_18"
@@ -1026,7 +1026,7 @@ distrib = "pkg-17"
 package = "pkg_17-1.0-py3-none-any"
 ext = "whl"
 sha256 = "ef18cc966af8c17be12ce067205a343dbad6948bf89a273019752d6befbd06b4"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907195"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907195"
 
 [pkgs.meta]
 name = "pkg_17"
@@ -1038,7 +1038,7 @@ distrib = "pkg-16"
 package = "pkg_16-1.0-py3-none-any"
 ext = "whl"
 sha256 = "62456c81330febef9c9721879c2a080a96c4d54c0b2ed9a1b66b34c1d9bc4260"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907194"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907194"
 
 [pkgs.meta]
 name = "pkg_16"
@@ -1050,7 +1050,7 @@ distrib = "pkg-15"
 package = "pkg_15-1.0-py3-none-any"
 ext = "whl"
 sha256 = "f3434f491d9b355060bfe2c8c8b9919a278183e6c6de04f253b75fe346b8c0cc"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907193"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907193"
 
 [pkgs.meta]
 name = "pkg_15"
@@ -1062,7 +1062,7 @@ distrib = "pkg-14"
 package = "pkg_14-1.0-py3-none-any"
 ext = "whl"
 sha256 = "8777f28d9f9dbe13585901a4ae92b35a84171b2a2f4c1fdebb4bb84e6337f6f0"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907192"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907192"
 
 [pkgs.meta]
 name = "pkg_14"
@@ -1074,7 +1074,7 @@ distrib = "pkg-13"
 package = "pkg_13-1.0-py3-none-any"
 ext = "whl"
 sha256 = "c1612a83038da9ab5b0b7035739c011e4ebaf5232e9b66a39c816fb6f6fe5c4f"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907191"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907191"
 
 [pkgs.meta]
 name = "pkg_13"
@@ -1086,7 +1086,7 @@ distrib = "pkg-12"
 package = "pkg_12-1.0-py3-none-any"
 ext = "whl"
 sha256 = "7f36d5ebc374be068a515076cf42c88d009137cee221a90ce00fd7df818d0af2"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907190"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907190"
 
 [pkgs.meta]
 name = "pkg_12"
@@ -1098,7 +1098,7 @@ distrib = "pkg-11"
 package = "pkg_11-1.0-py3-none-any"
 ext = "whl"
 sha256 = "c4377397500ed83e22b7236a6dd2f627091da4987387dbfd27f99a7cde4f5a4b"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907189"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907189"
 
 [pkgs.meta]
 name = "pkg_11"
@@ -1110,7 +1110,7 @@ distrib = "pkg-10"
 package = "pkg_10-1.0-py3-none-any"
 ext = "whl"
 sha256 = "2a335270061022e6a3d64b02f0bc97f984827d1233035a891f43c161a2af2888"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907188"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907188"
 
 [pkgs.meta]
 name = "pkg_10"
@@ -1122,7 +1122,7 @@ distrib = "pkg-9"
 package = "pkg_9-1.0-py3-none-any"
 ext = "whl"
 sha256 = "02ea85fd7bc67a0081f47304b95a918f3d7cd3fe525967ac545711c4e7622c77"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907187"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907187"
 
 [pkgs.meta]
 name = "pkg_9"
@@ -1134,7 +1134,7 @@ distrib = "pkg-8"
 package = "pkg_8-1.0-py3-none-any"
 ext = "whl"
 sha256 = "7973542ae1c2279e98466606d12e51022527e23c1b48852570ae4601e32b8888"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907183"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907183"
 
 [pkgs.meta]
 name = "pkg_8"
@@ -1146,7 +1146,7 @@ distrib = "pkg-7"
 package = "pkg_7-1.0-py3-none-any"
 ext = "whl"
 sha256 = "1e65ee6a37b397ac397c527e98533bbf7fa43672f747e40fccee779237a88832"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907178"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907178"
 
 [pkgs.meta]
 name = "pkg_7"
@@ -1158,7 +1158,7 @@ distrib = "pkg-6"
 package = "pkg_6-1.0-py3-none-any"
 ext = "whl"
 sha256 = "8c2d168e8d9164c2b16c3c017b6f8193e9813e4d7e2f466143de3cc845944050"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907174"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907174"
 
 [pkgs.meta]
 name = "pkg_6"
@@ -1170,7 +1170,7 @@ distrib = "pkg-5"
 package = "pkg_5-1.0-py3-none-any"
 ext = "whl"
 sha256 = "a71a099a5e47a28a0dd11bbcb2002054b1b08a143bfa81ffff6cf86664f96daa"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907173"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907173"
 
 [pkgs.meta]
 name = "pkg_5"
@@ -1182,7 +1182,7 @@ distrib = "pkg-4"
 package = "pkg_4-1.0-py3-none-any"
 ext = "whl"
 sha256 = "038e1e5f04e1ef261993d9bef2543f438d581e07b8a4ec7bff3be9d7d3182d04"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907172"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907172"
 
 [pkgs.meta]
 name = "pkg_4"
@@ -1194,7 +1194,7 @@ distrib = "pkg-3"
 package = "pkg_3-1.0-py3-none-any"
 ext = "whl"
 sha256 = "c9fbce80dae3030648d6250147945b9fbdcec5269925cc13ebea1facc7f832c8"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907170"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907170"
 
 [pkgs.meta]
 name = "pkg_3"
@@ -1206,7 +1206,7 @@ distrib = "pkg-2"
 package = "pkg_2-1.0-py3-none-any"
 ext = "whl"
 sha256 = "5f3aba91e50c04ef63969945e2c6eba3d8545becc65dab5886b5877946487bb5"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907169"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907169"
 
 [pkgs.meta]
 name = "pkg_2"
@@ -1218,7 +1218,7 @@ distrib = "pkg-1"
 package = "pkg_1-1.0-py3-none-any"
 ext = "whl"
 sha256 = "b98fb076a590e44142b98d761b87ad5a36945d28bc83b4e1332fb999bde126da"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907168"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907168"
 
 [pkgs.meta]
 name = "pkg_1"
@@ -1230,7 +1230,7 @@ distrib = "pkg-0"
 package = "pkg_0-1.0-py3-none-any"
 ext = "whl"
 sha256 = "b59b8968f901fbcfd5ab8d9db802050b82b976cbe252cae251a5c0586a60a37e"
-url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210012256551389/releases/assets/17907167"
+url = "https://api.github.com/repos/private-pypi-github-test-admin/private-pypi-test-20200210012256551389/releases/assets/17907167"
 
 [pkgs.meta]
 name = "pkg_0"
